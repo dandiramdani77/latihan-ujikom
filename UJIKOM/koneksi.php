@@ -1,0 +1,5 @@
+<?php
+// file config.php
+
+$conn=mysqli_connect("localhost","root","","db_penjualan");
+?>
